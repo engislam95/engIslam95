@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [medium.com/@islam.baidaq](medium.com/@islam.baidaq)
 
-- 💬 Ask me about **JavaScript , Bootstrap , VueJs , Vuex , TailwindCss , QuasarJs**
+- 💬 Ask me about **JavaScript , Bootstrap , VueJs , Vuex , TailwindCss , QuasarJs , Angular +2 , Angular matrials , Ngrx **
 
 - 📫 How to reach me **Islam.baidaq@gmail.com**
 
