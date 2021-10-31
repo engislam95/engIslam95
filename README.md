@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Islam Ahmed</h1>
-<h3 align="center">Software engineer / Frontend engineer at Ten Degrees & Instructor at Information Technology Institute (ITI)</h3>
+<h3 align="center">I'M A MID SENIOR SOFTWARE ENGINEER / FRONTEND ENGINEER</h3>
 
 - 👨‍💻 All of my projects are available at [https://islam-baidaq.netlify.app/](https://islam-baidaq.netlify.app/)
 
 - 📝 I regularly write articles on [medium.com/@islam.baidaq](medium.com/@islam.baidaq)
 
-- 💬 Ask me about **JavaScript , Bootstrap , VueJs , Vuex , TailwindCss , QuasarJs , Angular +2 , Angular matrials , Ngrx , TypeScript **
+- 💬 Ask me about ##JavaScript , Bootstrap , VueJs , Vuex , TailwindCss , QuasarJs , Angular +2 , Angular matrials , Ngrx , TypeScript ##
 
 - 📫 How to reach me **Islam.baidaq@gmail.com**
 
