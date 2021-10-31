@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Islam Ahmed</h1>
-<h3 align="center">I'M A MID SENIOR SOFTWARE ENGINEER / FRONTEND ENGINEER</h3>
+<h1 align="center">Hi 👋 </h1>
+ <h1> I'm Islam Ahmed</h1>
+<h3 align="center">Software engineer / Frontend engineer at Ten Degrees & Instructor at Information Technology Institute (ITI)</h3>
 
 - 👨‍💻 All of my projects are available at [https://islam-baidaq.netlify.app/](https://islam-baidaq.netlify.app/)
 
