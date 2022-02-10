@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [medium.com/@islam.baidaq](medium.com/@islam.baidaq)
 
-- 💬 Ask me about **JavaScript , Es6 , OOP JS  , VueJs , Vuex , TailwindCss , QuasarJs , Angular +2  , Ngrx , TypeScript , Nuxtjs , VueBootstrap**
+- 💬 Ask me about **JavaScript , Es6 , TypeScript ,  OOP JS  , VueJs , Vuex ,  ,  Angular +2 ,  React , React Query , Ngrx ,  TailwindCss , QuasarJs , Nuxtjs , VueBootstrap**
 
 - 📫 How to reach me **Islam.baidaq@gmail.com**
 
