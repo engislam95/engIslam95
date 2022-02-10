@@ -2,7 +2,6 @@
  <h1 align="center"> I'm Islam Ahmed</h1>
 <h3 align="center">Software engineer / Frontend engineer at Ten Degrees & Instructor at Information Technology Institute (ITI)</h3>
 
-- 👨‍💻 All of my projects are available at [https://islam-baidaq.netlify.app/](https://islam-baidaq.netlify.app/)
 
 - 📝 I regularly write articles on [medium.com/@islam.baidaq](medium.com/@islam.baidaq)
 
