@@ -11,11 +11,5 @@
 
 
 
-### Compact layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engIslam95&layout=compact)](https://github.com/engIslam95/github-readme-stats)
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engislam95&show_icons=true&locale=en" alt="engislam95" /></p>
 
