@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
  <h1 align="center"> I'm Islam Baidaq</h1>
 <h3 align="center">Senior Software Engineer / FrontEnd Engineer @ Vodafone Uk </h3>
-<h3 align="center">FrontEnd Development Instructor @ Ministry of Communication and Technology (ITI) Egypt Goverment  </h3>
+<h3 align="center">FrontEnd Development Instructor @ Ministry of Communication and Technology (ITI) Egypt </h3>
 
 
 - 📝 I regularly write articles on [medium.com/@islam.baidaq](medium.com/@islam.baidaq)
